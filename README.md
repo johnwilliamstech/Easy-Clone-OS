@@ -1,6 +1,15 @@
+<b>To Do List</b>:
+- [ ] Make instructions for creating .iso
+- [ ] Add images
+- [ ] Add PDF
+- [ ] Test & QA
+- [ ] Better Spellcheck 
+
 # **EasyClone OS: An easy way to create backup copies of your computer, so you can restore it to a previous state.**
 
 <a href="https://github.com/johnwilliamstech/Easy-Clone-OS/blob/main/easyclone-os-demo.mp4">Download Video Here<a>
+
+By using anything in this project, you agree that the project is not liable to any damage to your data or systems. 
 
 Instructions For Making Clones Of Your Operating System - For Backup &amp; Recovery
 
